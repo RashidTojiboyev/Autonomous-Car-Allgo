@@ -1,6 +1,9 @@
 ## allgo
  Capstone Project (Inha University, 2017 fall semester)
  Self Driving Car - System Self Driving car using color detection.
+ 
+ https://m.youtube.com/watch?t=14s&v=zVAmhmCxAP0
+ 
  ### Key Points
  * Two approach
     - Color Detection 
